@@ -4,7 +4,13 @@ haggis-spice-latte
 Chrome extension that replaces occurrences of 'pumpkin spice' with 'haggis
 spice'. Code blatantly ripped off from the magnificent CloudToButt.
 
-[Direct download of crx file](https://github.com/moss/haggis-spice-latte/blob/master/HaggisSpiceLatte.crx?raw=true)
+
+Installation
+------------
+
+* Download [HaggisSpiceLatte.crx](https://github.com/moss/haggis-spice-latte/blob/master/HaggisSpiceLatte.crx?raw=true)
+* In Chrome, choose Window > Extensions
+* Drag HaggisSpiceLatte.crx into the page that appears
 
 Credit Where Credit Is Due
 --------------------------
