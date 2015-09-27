@@ -12,3 +12,6 @@ Credit Where Credit Is Due
 Inspired by [this tweet](https://twitter.com/tithenai/status/648132019243773953).
 
 Based on the code from [this extension](https://github.com/panicsteve/cloud-to-butt).
+
+Built with helpful instructions from
+[this article](http://readwrite.com/2014/08/29/chrome-extension-build-your-own-caaaaarbs).
